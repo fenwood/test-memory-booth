@@ -15,6 +15,7 @@ module.exports = {
     facebookUsername: "#",
     instagramUsername: "#",
     linkedinUsername: "#",
+    image: "assets/bg-camera-hand.png",
     siteUrl: "https://barcadia.netlify.com",
     developerName: "Jeremy Thompson",
     developerUrl: "https://www.jeremythompson.ca",
